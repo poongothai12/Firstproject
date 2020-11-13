@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 7263-B26E
+
+ Directory of C:\Users\admin\Desktop\Myfolder
+
+14/11/2020  05:30 AM    <DIR>          .
+14/11/2020  05:30 AM    <DIR>          ..
+14/11/2020  05:30 AM                 0 text.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  413,257,871,360 bytes free
